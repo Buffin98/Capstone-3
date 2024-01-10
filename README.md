@@ -1,2 +1,2 @@
 # Capstone-3
-BizCardX: Extracting Business Card Data with OCR
+### BizCardX : Extracting_Business_Card_Data_with_OCR
